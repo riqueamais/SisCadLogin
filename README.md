@@ -1,6 +1,6 @@
 # SisCadLogin
 
-Clique [aqui](https://sistema-cad-login.web.app){:target="_blank"} para acessar o projeto.
+<a href="https://sistema-cad-login.web.app" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">aqui</a> para acessar o projeto.
 
 Sistema de Autenticação 
 <br>
